@@ -240,10 +240,4 @@ Add support for:
 
 ---
 
-# Contribution Guidelines
 
-We welcome community contributions to improve the project.
-
-
----
-# Web-Vulnereability-Scanner
